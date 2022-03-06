@@ -1,0 +1,73 @@
+Oscar Tse - Resume page
+####################################################################################################################################################################################
+#About
+Creating analytic tools and dashboards with end-to-end data pipeline automation. One-time effort, lazy me.
+Working on data since graduation. Ape in since 2020.
+Addicted to Web 3.0, seeking on-chain alphas and interesting facts, telling the truth supported by data.
+Hong Kong Terra community initiative, pushing the adoption of decentralized algo-stablecoin by contributing various TeFi instruments beta testing. #LUNAtic🌙 since 2021.
+Clarinetist, classical lover.
+
+####################################################################################################################################################################################
+#Resume
+- President, The Society of Engineering Faculty
+Communicated with faculty board members frequently to improve quality of materials taught. Managed 500+ size mentorship event among different Engineering departments and Industries. Organised joint university events for student members. Ensure efficient division of labor and assure duties were done within the deadline.
+- Faculty Representative, Chung Chi College Student Union
+Tackled and investigated constitution vulnerability. Managed conflicts between affiliated societies. Represented council in student union's general meetings.
+
+Professional Experience
+- Visa
+In the team of Visa Consulting and Analytics (VCA), building end-to-end data solutions to client on card lifecycle managements.
+Contribute to different machine learning algorithm on loan propensity model, merchant recommender, ToW analysis etc.
+Construct Hong Kong Data Science Team's analytical best-practice framework, consolidate analytical journey and automation tools.
+Hong Kong Crypto team initiative, introduce various connections and provide AP crypto market insights to HK General Manager.
+
+- Accenture
+Handled client's ETL Pipeline and orchestration of different datasource connections to ensure secure transformation on Azure Cloud Platform.
+Applied DevOps concept on pipeline constructing with testing and deploying in SIT, UAD, Prod environment, setting different IAM, RBAC, ACL.
+Designed sustainable data pipelines using various Azure tech stack, e.g. Data Factory, SynapseDB, SQL DB, Blob storage, DataBricks, Delta Lake, ADLS Gen2.
+Piloted end-to-end public data project with semi-real-time weather, traffic and events data from data mining, ETL, to visualisations on OpenAPI and Government website data.
+
+- KLOOK
+Completed end-to-end data science procedure to solve business questions (from Data mining, ETL, Modelling, Visualisation, to Reporting).
+Specialised in Competitor Analytics (Pricing, Acquisition, Content).
+Built customisable, reusable dashboards for business users on Tableau to investigate different dimensions/metrics to drill into business.
+Contributed to B.I. framework for the whole company analytic practice.
+
+Portfolio
+- Flipside Crypto, Terra Name Service
+Evaluate the performance of TNS NFTs (Domain name) sales and corresponding revenue generated, protocol growth and user behaviour analysis.</p>
+Flipside Crypto provides ready-to-use SQL query engine to perform fast and easy analysis. By querying TNS's contract address, having all the transactions info on who bought which namestring of domain names at particular timestamp with $x amount of crypto.
+Terra Name Service is still in a very early stage. At the time of writing this analysis, the team has already completed several milestones - Reverse Record setting, integration with several wallets (Terra Station, XDEFI, Leap), and most importantly the buyback mechanism of $TNS Token.
+
+- Semi real-time Hong Kong Public Traffic Dash
+Some data pipeline practice. Calling the Gov OpenData API for weather, traffic and event information, sending back to python dash app to do visualization.
+No insights. This is just a typical data pipeline exercise with semi-real-time call on API and processed to dashboard.
+
+- Flipside Crypto, Terra Ecosystem Tracking
+Terra is a fast-growing ecosystem on the ride of its decentralized algo-stablecoin - $ust, and it's native chain token $luna. To understand how healthy is the ecosystem expanding, this dashboard hopes to bring some insights on how to quantify metrics to measure is the ecosystem expanding in a healthy way or not.
+To quantify the healthiness of Terra Eco, there are three critical aspects to evaluate: 1) Anchor Dominance 2) Bridged Liquidity 3) Burn/mint activity on $ust
+
+- Kedro eComm data Pipeline
+As pandemic situation continues, demand of delivery service on food and goods are staying up high, how can customer optimize the bucket items to maximize different discount provided to reach the delivery minimum amount is a critical question to minimize per purchase cost.
+Scraping item information like categories, SKU, price, availability, delivery status from HKTV mall, automate pipeline to periodically fetch them into machine learning model, evaluating recommender to best optimize the cost and maximize discount used.
+Pretty good to fetch the data into a web-based API then return a best combination of food based on input recipes (like recipe recommendations based on refrigerator items).
+
+####################################################################################################################################################################################
+#Services
+- Crypto Market landscape
+Solid market research on selected chain/market/segments. Provide market information to support your ideas.
+
+- Product consultation
+Provide actionable insights with in-depth analysis, both quantitative and qualitative.
+
+- Loyalty solutions
+Define your loyal customer, reward them; Tag those "farm &amp; dump", patch the vulnerability.
+
+- Persona marketing
+Segment your customers, find what protocols they are interacting, engage them.
+
+- Competitor Analysis
+A critical part of business is to know what your competitors are doing.
+
+- Community Engagement
+Introduce your Terra protocol to the Hong Kong #LUNAtic community. We have devs, traders, scientists and analysts.
